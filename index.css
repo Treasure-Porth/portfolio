@@ -1,0 +1,64 @@
+.start{
+    background-image: url("./wp9581229.jpg");
+    background-size: cover;
+    width: auto;
+    height: 100vh;
+    margin: 0;
+    position: relative;
+    text-align: center;
+}
+
+body{
+    margin: 0;  
+    text-align: center;  
+}
+h1{
+    margin-top: 0;
+    font-family: "Monsieur La Doulaise", cursive;
+    font-weight: 400;
+    font-style: normal;
+    position: relative;
+    top: 10rem;
+}
+
+ .start>h2{
+    font-size: larger;
+    font-weight: 100;
+    position: relative;
+    top: 11rem;
+}
+.introduction>div>img{
+    border-radius: 50%;
+    height: 15rem;
+    width: auto;
+}
+
+.skills{
+    text-align: center;   
+    height: fit-content;
+    width: 50vw;
+    position: relative;
+    left: 25%;
+}
+.skills>h2{
+    font-weight: 350;
+    margin: 2rem;
+}
+.skills>h3,p{
+    font-weight: 100;
+}
+.skills>h3{
+    font-size: 1.5rem;
+    margin:2rem;
+}
+
+.contact{
+    margin-top: 10rem;
+}
+.footer{
+    background-color: rgb(239, 192, 134);
+    margin: 0;
+}
+.footer>a{
+    font-weight: 100;
+}
