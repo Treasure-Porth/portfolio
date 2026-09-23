@@ -36,9 +36,10 @@ h1{
 .skills{
     text-align: center;   
     height: fit-content;
-    width: 50vw;
     position: relative;
-    left: 25%;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
 }
 .skills>h2{
     font-weight: 350;
